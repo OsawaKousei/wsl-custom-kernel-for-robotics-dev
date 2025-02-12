@@ -7,7 +7,7 @@ I offer no warranty of any kind regarding the use or implementation of the conte
 # Usage
 
 If you want to eddit buid setting or simply build yoursel, follow 1~. \
-Or you can get built kernel https://drive.google.com/file/d/1J0r8YzgknybEBC2NY9AC81-jPbvt6D9D/view?usp=drive_link
+Or you can get built kernel https://drive.google.com/file/d/1J0r8YzgknybEBC2NY9AC81-jPbvt6D9D/view?usp=drive_link .\
 To refrect kernel, follow 7~ .
 
 1. Clone this repository.
