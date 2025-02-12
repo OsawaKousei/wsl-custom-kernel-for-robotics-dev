@@ -16,3 +16,6 @@ I offer no warranty of any kind regarding the use or implementation of the conte
 8. Shut down WSL: `wsl --shutdown`
 9. Reboot your computer.
 10. Verify the kernel has been updated by running `uname -a` in WSL.  Successful kernel modification will be indicated by `-microsoft-standard-WSL2+` at the end of the output, along with a build date matching your build time after the `#`.
+
+# Information
+If you want to know what I did, please refer https://qiita.com/N622/items/5c7cecd625e23c6e3911 
